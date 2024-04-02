@@ -1,0 +1,31 @@
+.palestinian-flag{
+  width: 300px;
+  height: 200px;
+  border: black 1px solid;
+  position: relative;
+  margin-top: 100px;
+}
+.triangle-right{
+	color: red;
+	width: 0;
+	height: 0;
+	border-top: 100px solid transparent;
+	border-left: 150px solid #c90000;
+	border-bottom: 100px solid transparent;
+  position: absolute;
+}
+.colors{
+  height: 33.33%;
+}
+#black{
+  background-color: black;
+}
+#white{
+  background-color: white;
+}
+#green{
+  background-color: #257c23;
+}
+.Para{
+  font-size:40px;
+}
